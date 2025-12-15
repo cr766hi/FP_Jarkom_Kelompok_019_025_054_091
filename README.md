@@ -41,8 +41,7 @@ Merancang dan mengimplementasikan jaringan terpadu yang menghubungkan:
 ## 🗺️ Topologi Jaringan
 
 ### Arsitektur Hierarki
-<img width="1654" height="742" alt="image" src="https://github.com/user-attachments/assets/29c5359f-2607-48ce-99c4-93f829cf1fda" />
-
+<img width="1060" height="465" alt="image" src="https://github.com/user-attachments/assets/2c53f6e9-79af-4f5d-abaa-1fde20736508" />
 
 ### Perangkat Utama
 | Perangkat | Model | Fungsi |
