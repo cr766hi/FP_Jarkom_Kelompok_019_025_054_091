@@ -226,6 +226,7 @@ router ospf 1
  network 172.16.0.0 0.0.0.3 area 0
  network 172.16.0.4 0.0.0.3 area 0
 ```
+<img width="636" height="170" alt="image" src="https://github.com/user-attachments/assets/c15f7d55-7bd1-4ef4-a82c-6ea8522e0578" />
 
 ---
 
@@ -281,10 +282,8 @@ interface Tunnel0
 ```
 
 **Verifikasi**: 
-```
 <img width="986" height="111" alt="image" src="https://github.com/user-attachments/assets/c74584f7-5f0a-44f9-95ef-cb2ce5cc7c23" />
 
-```
 
 ---
 
